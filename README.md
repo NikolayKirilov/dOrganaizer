@@ -20,8 +20,8 @@ In short the book represents the following rules for better time management.
 11:Remove the obstacles of each task.
 12:Step by step on bigger tasks.
 13:Put strict deadlines and push yourself.
-14:Define your most productive hours and use them properly.
-15:Stay motivated positive and active (take relax when needed).
+14:Define your most productive hours and use them properly (put relax hours in the ineffective intervals).
+15:Stay motivated positive, active.
 16:Creativity and filtration (leave/postpone the unimportant tasks).
 17:Always the most important first.
 18:Fragment big tasks (so you can complete them step by step).
