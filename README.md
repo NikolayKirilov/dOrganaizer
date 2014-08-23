@@ -1,6 +1,7 @@
 dOrganaizer
 ===========
-Desktop Tasks Organizer.
+Web Tasks Organizer.
+It should be possible to view by mobile and desktop devices.
 
 This is a project for task organizing.
 It's inspired by Brian Tracy's 'Eat That Frog' book.
